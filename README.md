@@ -1,2 +1,2 @@
-# Machine Learning Projects
-My ML Projects warehouse
+# Students Grade Predictions
+Predicting the final grades of students
