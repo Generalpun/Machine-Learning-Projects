@@ -13,3 +13,7 @@ The label in question here is the G3 or final grades of the students.
 Two Main models were used in this project.
 
 Linear Regression
+Random Forest Regression
+
+### Files Description
+
