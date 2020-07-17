@@ -16,9 +16,13 @@ Linear Regression
 Random Forest Regression
 
 ### Files Description
-school_grades_dataset.csv - The Dataset used for this project gotten from kaggle https://www.kaggle.com/dipam7/student-grade-prediction
-LabelBinarizedSGP.csv - The Dataset that has been filtered through the Label Binarizer algorithm to turn all columns that contains words into numerics.
-LabelEncodedSGP.csv - The Dataset that has been filtered through the Label Encoder algorithm to turn the binarized columns into ones and zeroes
-Student Grade Prediction using Random Forest Regressor.ipynb - Code for using Random Forest Regressor algorithm to predict the final grades.
-Students Grades Prediction using linear regression.ipynb - Code for using Linear Regression algorithm to predict the final grades.
+###### school_grades_dataset.csv - The Dataset used for this project gotten from kaggle https://www.kaggle.com/dipam7/student-grade-prediction
+
+###### LabelBinarizedSGP.csv - The Dataset that has been filtered through the Label Binarizer algorithm to turn all columns that contains words into numerics.
+
+###### LabelEncodedSGP.csv - The Dataset that has been filtered through the Label Encoder algorithm to turn the binarized columns into ones and zeroes
+
+###### Student Grade Prediction using Random Forest Regressor.ipynb - Code for using Random Forest Regressor algorithm to predict the final grades.
+
+###### Students Grades Prediction using linear regression.ipynb - Code for using Linear Regression algorithm to predict the final grades.
 
